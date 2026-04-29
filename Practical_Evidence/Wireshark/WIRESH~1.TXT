@@ -1,5 +1,0 @@
-Wireshark was used to capture and analyze network traffic during the DDoS simulation.
-
-TCP SYN, ACK, FIN, and RST packets were inspected to identify abnormal traffic behavior and validate attack progression.
-
-Packet captures helped reconstruct attack initiation, peak activity, and recovery phases for forensic timeline analysis.
