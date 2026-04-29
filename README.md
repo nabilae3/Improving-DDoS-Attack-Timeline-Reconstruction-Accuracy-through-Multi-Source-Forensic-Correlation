@@ -42,9 +42,18 @@ Multi source forensic monitoring significantly improves DDoS attack reconstructi
 
 By combining packet captures, structured logs, monitoring dashboards, and forensic reporting, the project provides stronger evidence, better incident response capability, and improved post attack investigation reliability.
 
-## Author
+## Authors
+
+Group 3
 
 Nabila Emanuel  
+Lokeswari Devi Avudoddi  
+Abhishek Kaithapalli  
+Ahmed Mohamed  
+
 Master of Science in Cybersecurity  
 Montclair State University  
-CSIT697 Final Project
+
+Mentor: Christopher Leberknight, PhD  
+
+CSIT697 Master’s Project
