@@ -1,5 +1,0 @@
-Zeek was used to generate structured network security logs during the DDoS simulation.
-
-Files such as conn.log and weird.log were analyzed to identify suspicious connections, incomplete TCP handshakes, abnormal traffic behavior, and file transfer activities between systems.
-
-Zeek provided forensic validation by confirming source IP addresses, destination IP addresses, connection timestamps, protocol behavior, and attack progression for accurate timeline reconstruction.
