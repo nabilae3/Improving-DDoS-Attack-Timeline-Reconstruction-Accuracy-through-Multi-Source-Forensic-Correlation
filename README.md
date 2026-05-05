@@ -26,6 +26,7 @@ The goal is to reconstruct attack phases more accurately, validate attack start 
 - Attack_Results → attack timeline charts and analysis
 - Appendix_Supporting_Evidence → additional validation material
 - Handshake_App → supporting application project files
+- symposium → certificate, abstract, poster, and presentation proof
 - Final Report PDF
 - SRS Final Poster PDF
 
@@ -41,6 +42,19 @@ The goal is to reconstruct attack phases more accurately, validate attack start 
 Multi source forensic monitoring significantly improves DDoS attack reconstruction accuracy and strengthens network resilience analysis.
 
 By combining packet captures, structured logs, monitoring dashboards, and forensic reporting, the project provides stronger evidence, better incident response capability, and improved post attack investigation reliability.
+
+## 🏆 Student Research Symposium 2026
+
+This project was presented at the Montclair State University Student Research Symposium 2026.
+
+- Presenter: Nabila Emanuel  
+- Session: Session 4 (1:15 PM – 2:15 PM)  
+- Faculty Sponsor: Christopher Leberknight  
+- Topic: Improving DDoS Attack Timeline Reconstruction using Multi Source Forensic Correlation  
+
+The symposium materials, including certificate, abstract, and presentation details, are available in the `symposium/` folder.
+
+This presentation highlights the practical application of multi source forensic analysis for improving DDoS attack investigation and incident response.
 
 ## Author
 
