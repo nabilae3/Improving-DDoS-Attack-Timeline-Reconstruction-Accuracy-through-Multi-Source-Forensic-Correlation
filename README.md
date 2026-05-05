@@ -43,7 +43,7 @@ Multi source forensic monitoring significantly improves DDoS attack reconstructi
 
 By combining packet captures, structured logs, monitoring dashboards, and forensic reporting, the project provides stronger evidence, better incident response capability, and improved post attack investigation reliability.
 
-## 🏆 Student Research Symposium 2026
+## Student Research Symposium 2026
 
 This project was presented at the Montclair State University Student Research Symposium 2026.
 
